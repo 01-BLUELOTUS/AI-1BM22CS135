@@ -5,4 +5,8 @@
 <h2>Laboratory Program - 2</h2>
 <h3>Solve 8 puzzle problems.</h3>
 <h3>Implement Iterative deepening search algorithm.</h3>
-
+<h2>Laboratory Program - 3</h2>
+<h3>Implement A* search algorithm.</h3>
+<h3>For 8-puzzle A* implementation, to calculate, f(n), consider two cases,
+1. g(n): Depth of the node, h(n): Number of Misplaced tiles
+2. g(n): Depth of the node, h(n): Manhattan Distance</h3>
